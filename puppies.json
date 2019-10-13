@@ -4,19 +4,43 @@
       "id": 1,
       "name": "Reign",
       "type": "Bulldog",
-      "adopted": false
+      "adopted": true
     },
     {
-      "name": "Sheeba",
-      "type": "Caucasian",
-      "adopted": false,
-      "id": 2
+      "id": 5,
+      "name": "Mano",
+      "type": "Not a dog, but actually a Cat",
+      "adopted": true
     },
     {
-      "name": "Gundo",
-      "type": "Labrador",
+      "name": "Gandalf",
+      "type": "Gray",
       "adopted": false,
-      "id": 3
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Blackie",
+      "type": "Black",
+      "adopted": true
+    },
+    {
+      "id": 9,
+      "name": "Clegane",
+      "type": "Hound",
+      "adopted": true
+    },
+    {
+      "name": "Scooby",
+      "type": "Great Dane",
+      "adopted": false,
+      "id": 11
+    },
+    {
+      "name": "Scrappy",
+      "type": "Minor Dane",
+      "adopted": false,
+      "id": 12
     }
   ]
 }
